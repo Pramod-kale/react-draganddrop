@@ -1,0 +1,25 @@
+{
+  "name": "react-draganddrop",
+  "version": "1.0.0",
+  "description": "drag and drop library made for react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pramod-kale/react-draganddrop.git"
+  },
+  "keywords": [
+    "react-draganddrop",
+    "dnd",
+    "react-drag-and-drop",
+    "react-dnd"
+  ],
+  "author": "Pramod Kale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pramod-kale/react-draganddrop/issues"
+  },
+  "homepage": "https://github.com/Pramod-kale/react-draganddrop#readme"
+}
